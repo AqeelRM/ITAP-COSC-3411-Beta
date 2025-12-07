@@ -73,7 +73,24 @@ page has successfully been created
 <img width="847" height="644" alt="image" src="https://github.com/user-attachments/assets/98fd8ff8-6865-4d87-baae-c990d2da6ede" />
 
 
+
+
+
 7-credentials has sent to the attacker
 
 
 <img width="635" height="413" alt="image" src="https://github.com/user-attachments/assets/5598ce7c-c059-4535-8a2f-e7b7dbf4d19a" />
+
+
+
+
+
+
+
+Group Beta:
+
+
+Aqeel AlMunian – 202100669
+
+
+Mohammed Alzohairy - 202100633
