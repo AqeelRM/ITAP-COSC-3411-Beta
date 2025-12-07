@@ -31,6 +31,9 @@ On first launch, It'll install the dependencies and that's it. Zphisher is insta
 
 1-first we run the program
 
+<img width="314" height="51" alt="image" src="https://github.com/user-attachments/assets/573ee5c5-e571-467b-ad25-32a05db56a58" />
+
+
 2- choose the platform to mimic
 
 
