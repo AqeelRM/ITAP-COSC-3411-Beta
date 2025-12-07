@@ -27,6 +27,8 @@ $ bash zphisher.sh
 
 
 On first launch, It'll install the dependencies and that's it. Zphisher is installed.
+
+
 1-first we run the program
 
 2- choose the platform to mimic
