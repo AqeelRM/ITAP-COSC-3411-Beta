@@ -47,7 +47,7 @@ page has successfully been created
 <img width="847" height="647" alt="image" src="https://github.com/user-attachments/assets/3a6f0e4c-0e4e-478d-8a5e-2c117e684342" />
 
 
-5-enter credintals
+5-enter credentials
 
 
 <img width="847" height="641" alt="image" src="https://github.com/user-attachments/assets/baa6d6f1-bc8a-4dad-a052-d60079582f3c" />
@@ -59,7 +59,7 @@ page has successfully been created
 <img width="847" height="644" alt="image" src="https://github.com/user-attachments/assets/98fd8ff8-6865-4d87-baae-c990d2da6ede" />
 
 
-7-credintals has sent to the attacker
+7-credentials has sent to the attacker
 
 
 <img width="635" height="413" alt="image" src="https://github.com/user-attachments/assets/5598ce7c-c059-4535-8a2f-e7b7dbf4d19a" />
